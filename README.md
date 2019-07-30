@@ -22,7 +22,7 @@
 １. 自我介绍，项目简介  
 ２. rnn为何会出现梯度消失与梯度爆炸  
 ３. 损失函数交叉熵是怎么算的， 为何会起作用  
-４. batch normolization如何计算，原理
+４. batch normolization如何计算，原理   
 ５. 几种优化方法 sgd， moment-sgd， adam等  
 ６. 编程：链表反转
 
