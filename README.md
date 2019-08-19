@@ -66,3 +66,10 @@ zoom拒接
 ６．batch-normoliazation    
 
 ----
+#### 2019.8.19
+１．投递vivo正式批    
+２．投递百度正式批    
+３．投递虎牙提前批    
+４．投递bilibili正式批    
+
+----
